@@ -1,0 +1,71 @@
+body {
+    background-color: #FFFFFF;
+    padding: 16px;
+    max-width: 327px;
+    margin: 0;
+    margin: auto;
+    height: 552px;
+    border-radius: 16px;
+    gap: 12px;
+    border: 1px solid #DFE1E6;
+ }
+
+  .Maincontainer {
+     background-image: url(capture24.png);
+     width: 295px;
+     height: 220px;
+     border-radius: 8px;
+     margin: auto;
+  
+   }
+
+   .Sub {
+    width: 295px;
+    height: 288px;
+    gap: 12px;
+    margin: auto;
+    border-radius: 8px;
+
+   }
+
+   .Ali{
+    display: flex;
+    margin: -5px -25px;
+   }
+
+   .BND{
+    margin: 3px 12px 5px ;
+    font-size: 12px;
+    color:  rgb(126, 125, 125);
+   }
+
+   .Canopy{
+    list-style: none;
+   }
+
+   .date{
+    color: rgb(126, 125, 125);
+   }
+
+   .Ali li{
+    margin: 2px 5px;
+    font-size: 15px;
+    margin: 3px 12px 5px;
+   }
+
+   .Text {
+    margin: auto;
+   }
+
+   .Subcontainer{
+      width: 327px;
+      height: 596px;
+      padding: 16px;
+      border-radius: 16px;
+      border: 1px;
+      gap: 12px;
+      background: #FFFFFF;
+      border: 1px solid #DFE1E6;
+      margin-top: 40px;
+      margin-left: -16px;
+   }
